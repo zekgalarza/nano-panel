@@ -11,7 +11,7 @@ import Image from "next/image";
 import { Upload, Film, Image as ImageIcon } from "lucide-react";
 import Composer from "@/components/ui/Composer";
 import VideoPlayer from "@/components/ui/VideoPlayer";
-import { Skeleton } from "@/components/ui/skeleton";
+// import { Skeleton } from "@/components/ui/skeleton";
 
 type VeoOperationName = string | null;
 
